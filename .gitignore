@@ -1,7 +1,9 @@
-# Visual Studio
+# Visual Studio temporary files
 .vs/
+*.user
+*.suo
 
-# Build outputs
+# Build output
 bin/
 obj/
 publish/
@@ -11,6 +13,5 @@ publish/
 *.deps.json
 *.runtimeconfig.json
 
-# User-specific
-*.user
-*.suo
+# Other temporary files
+output.txt
