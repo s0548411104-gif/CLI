@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+
+# Build outputs
+bin/
+obj/
+publish/
+*.exe
+*.dll
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# User-specific
+*.user
+*.suo
