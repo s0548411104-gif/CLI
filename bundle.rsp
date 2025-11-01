@@ -1,0 +1,1 @@
+bundle -o "output.txt" -l all -n -s name -r -a "eee"
